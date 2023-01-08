@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=CharlieLei)
+
 <!--
 **CharlieLei/CharlieLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +23,7 @@ Here are some ideas to get you started:
 - Distributed System (MIT6.824) [labs]()
 
 ### TODO
-- operation system (6.s081)
-- database system (CMU15445)
-- compiler (cs143)
-- computer network (cs144)
-
-![](https://github-readme-stats.vercel.app/api?username=CharlieLei)
+- Computer Network (cs144)
+- Operation System (6.s081)
+- Database (CMU15445)
+- Compiler (cs143)
