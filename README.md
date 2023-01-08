@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Self-learning Courses
 ### Done
 
-- Distributed System (MIT6.824) [labs]()
+- Distributed System (MIT6.824) [labs' doc](https://github.com/CharlieLei/428.6TIM)
 
 ### TODO
 - Computer Network (cs144)
