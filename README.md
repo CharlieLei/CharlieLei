@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 ## Self-learning Courses
 ### Done
 
-- Distributed System (MIT6.824) [labs' doc](https://github.com/CharlieLei/lab-distributed-system)
-
-### TODO
-- Computer Network (cs144)
-- Operation System (6.s081)
-- Database (CMU15445)
-- Compiler (cs143)
+- CS144     Computer Network
+- MIT6.s081 Operation System
+- CMU15-445 Database
+- MIT6.824  Distributed System [labs' doc](https://github.com/CharlieLei/lab-distributed-system)
+- CS143     Compiler
