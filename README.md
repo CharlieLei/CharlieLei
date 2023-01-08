@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Self-learning Courses
+## Courses
 ### Done
 
 - MIT6.824  Distributed System [labs' doc](https://github.com/CharlieLei/lab-distributed-system)
+- THU CS    Computer Graphics  [labs](https://github.com/CharlieLei/lab-computer-graphics)
 
 ### TODO
 
