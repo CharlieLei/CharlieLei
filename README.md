@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 - CS144     Computer Network
 - MIT6.s081 Operation System
 - CMU15-445 Database
-- MIT6.824  Distributed System [labs' doc](https://github.com/CharlieLei/lab-distributed-system)
 - CS143     Compiler
