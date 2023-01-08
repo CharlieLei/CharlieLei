@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Self-learning Courses
+### Done
+
+- Distributed System (MIT6.824) [labs]()
+
+### TODO
+- operation system (6.s081)
+- database system (CMU15445)
+- compiler (cs143)
+- computer network (cs144)
+
+![](https://github-readme-stats.vercel.app/api?username=CharlieLei)
